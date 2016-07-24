@@ -1,4 +1,4 @@
-# Airline-Enquiry-System
+# Airline-Reservation and Enquiry-System
 Enquiry of Airline System made in Java
 
 To Run this code in your computer follow the following Instructions:-
