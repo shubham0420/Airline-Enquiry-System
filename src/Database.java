@@ -18,7 +18,7 @@ public class Database {
 		   // JDBC driver name and database URL
 		JDBC_DRIVER = "com.mysql.jdbc.Driver";
 		DB_URL = "jdbc:mysql://localhost:3306";
-		USER = "shubham";
+		USER = "anshul";
 		PASS = "";
 		conn = null;
 		stmt = null;
